@@ -2,7 +2,7 @@
 
 There seems to be some sort of interop issue with Babel/core-js and Svelte on older browsers.
 
-Browser currently known affected:
+Browsers currently known affected:
 
 - IE 11
 - iOS 9 Mobile Safari
